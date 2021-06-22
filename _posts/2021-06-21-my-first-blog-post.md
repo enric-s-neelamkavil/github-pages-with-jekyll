@@ -1,6 +1,6 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "GitHub Pages"
+date: 2021-06-22
 ---
 
 
